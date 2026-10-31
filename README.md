@@ -27,13 +27,16 @@ Modern Web Experiences
 
 <p align="left">
   
-<a href="[LinkedIn URL]"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=forthe-badge&logo=linkedin"/> 
+<a href="[LinkedIn URL]"> 
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=forthe-badge&logo=linkedin"/> 
 </a>
 
-<a href="[Portfolio URL]"> <img src="https://img.shields.io/badge/Portfolio-000000?style=forthe-badge&logo=vercel"/>
+<a href="[Portfolio URL]"> 
+<img src="https://img.shields.io/badge/Portfolio-000000?style=forthe-badge&logo=vercel"/>
 </a>
 
-<a href="mailto:[Email Address]"> <img src="https://img.shields.io/badge/Email-D14836?style=for-thebadge&logo=gmail"/> 
+<a href="mailto:[gopikathilaga64@gmail.com]"> 
+<img src="https://img.shields.io/badge/Email-D14836?style=for-thebadge&logo=gmail"/> 
 </a>
 
 </p>
